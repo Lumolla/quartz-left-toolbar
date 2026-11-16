@@ -26,7 +26,7 @@ var LeftToolbar_default = (() => {
       /* @__PURE__ */ jsx("div", { class: "toolbar-divider" }),
       /* @__PURE__ */ jsxs("div", { class: "toolbar-ratings", children: [
         /* @__PURE__ */ jsxs("label", { class: "rating-toggle", title: "Safe", children: [
-          /* @__PURE__ */ jsx("input", { type: "checkbox", id: "filter-safe", defaultChecked: true }),
+          /* @__PURE__ */ jsx("input", { type: "checkbox", id: "filter-safe" }),
           /* @__PURE__ */ jsx("span", { class: "rating-dot safe" })
         ] }),
         /* @__PURE__ */ jsxs("label", { class: "rating-toggle", title: "Suggestive", children: [

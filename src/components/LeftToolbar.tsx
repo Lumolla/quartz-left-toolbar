@@ -17,7 +17,7 @@ export default (() => {
 
         <div class="toolbar-ratings">
           <label class="rating-toggle" title="Safe">
-            <input type="checkbox" id="filter-safe" defaultChecked />
+            <input type="checkbox" id="filter-safe" />
             <span class="rating-dot safe"></span>
           </label>
           <label class="rating-toggle" title="Suggestive">
